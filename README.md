@@ -3,5 +3,5 @@
 ### Technology &
 #### Sciences
 
-**AITS** is located in Tirupati
+***AITS*** is located in Tirupati
 
